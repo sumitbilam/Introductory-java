@@ -1,12 +1,5 @@
-/*
- * package .
- */
-package assignment1;
+package investment;
 
-/**
- *
- * @author sumit
- */
 public class Stock {
     private String symbol;
     private String name;
