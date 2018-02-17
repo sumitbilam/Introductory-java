@@ -1,12 +1,5 @@
-/*
- * package 
- */
-package assignment1;
+package investment;
 
-/**
- *
- * @author sumit
- */
 public class MutualFunds {
     private String symbol;
     private String name;
