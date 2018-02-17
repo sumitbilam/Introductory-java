@@ -1,14 +1,8 @@
-/*
- * Packages and import classes
- */
-package assignment1;
+package investment;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author sumit
- */
+
 public class Portfolio {
     private ArrayList<Stock> stockList = new ArrayList();
     private ArrayList<MutualFunds> mutualFundsList = new ArrayList();
