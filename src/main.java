@@ -1,14 +1,11 @@
 /*
  * Packages and import classes
  */
-package assignment1;
+package investment;
 import java.util.Scanner;
 import java.util.ArrayList;
-/**
- *
- * @author sumt
- */
-public class Assignment1 {
+
+public class Investment {
 
     /**
      * @param args the command line arguments
